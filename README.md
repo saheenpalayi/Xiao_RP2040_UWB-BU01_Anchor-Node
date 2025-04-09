@@ -1,20 +1,23 @@
-# Xiao_RP2040_UWB-BU01_Anchor-Node!
+# Xiao RP2040 UWB-BU01 Anchor-Node!
 
- The UWB (Ultra wide band ) is a cool thing to have in projects involve indoor location tracking and robotics, tracking devices, Then there is a Module called BU01 DW1000 available for the maker's to explore and add this amazing pice of technology to their project, This documentation of mine is a step to the UWB and the Xiao that I did in Super Fablab Kerala - Kochi  
+ The UWB (Ultra wide band ) is a cool thing to have in projects involve indoor location tracking and robotics, tracking devices, Then there is a Module called BU01 DW1000 available for the maker's to explore and add this amazing pice of technology to their project, This documentation of mine is a step to the UWB and the Xiao that I did in Super Fablab Kerala - Koch  
 
 Here is the cool board I made with the Module and Xiao ESP32 C6
 
 ![Xiao_UWB](Images/Xiao-UWB.jpg)
 
-## Schematic
+
+## Design of the Board 
+I've used Kicad to design the PCB and the Design files and gerber files are included in the repo. I've been following the Makerbase documentation to see the available commercial development board's schematics for the reference and the datasheet of the module all linked bottom of the board. The foot print I've got one of my student Akash at the Fabacademy 2025 who was exploring the Module for his fabacademy final project 
+### Schematic
 ![Schematic](Images/Schematic.jpg)
 
 
-## PCB Layout
+### PCB Layout
 ![PCB](Images/Xiao_UWB_PCB.jpg)
 
 
-## PCB 3D view
+### PCB 3D view
 ![3D-PCB](Images/Xiao-UWB-3d.jpg)
 
 ## Issues 
